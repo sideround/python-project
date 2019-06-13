@@ -34,7 +34,7 @@ You examine Door A. It is locked but you don't have the key.
 
 You examine the piano. You find the key for Door A.
 
-You examine Door A. Your unlock it with a key you have.
+You examine Door A. You unlock it with a key you have.
 
 Do you want to go to the next room?
 
@@ -50,7 +50,7 @@ You examine the queen bed. You find the key for Door B.
 
 You examine Door C. It is locked but you don't have the key.
 
-You examine Door B. Your unlock it with a key you have.
+You examine Door B. You unlock it with a key you have.
 
 Do you want to go to the next room?
 
@@ -66,7 +66,7 @@ You examine the double bed. You find the key for Door C.
 
 You examine the dresser. You find the key for Door D.
 
-You examine Door B. Your unlock it with a key you have.
+You examine Door B. You unlock it with a key you have.
 
 Do you want to go to the next room?
 
@@ -88,7 +88,7 @@ What would you like to do?
 
 You explore the room. This is the Living Room. You find a dining table, Door C, and Door D.
 
-You examine Door D. Your unlock it with a key you have.
+You examine Door D. You unlock it with a key you have.
 
 Do you want to go to the next room?
 
