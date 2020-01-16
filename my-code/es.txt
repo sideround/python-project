@@ -1,0 +1,17 @@
+{
+    "where_are_you": "Ara estàs a {}",
+    "introduction_game": "T'aixeques en un sofà i et trobes en una casa molt estranya, sense finestres de la qual no hi havies estat mai abans. No t'enrecordes el motiu pel qual estàs allà i què ha passat abans. Sents un perill desconegut s'està aproximant i has de marxar de la casa, INMEDIATAMENT!",
+    "intended_action": "Què t'agradaría fer? Escriu 'explorar' o 'examinar' ?",
+    "what_examine": "Què t'agradaria examinar?",
+    "congrats_finish" : "Congrats! You escaped the room!",
+    "not_sure" : "Not sure what you mean. Type 'explore' or 'examine'.",
+    "your_current_room" : "Et poses a explorar l'habitació {}. ",
+    "items_found": "Et trobes: {}",
+    "item_found": "Et trobes un/a {}.",
+    "examine_item": "Examines {}. ",
+    "nothing_interesting" : "There isn't anything interesting about it.",
+    "locked_without_key" : "It is locked but you don't have the key.",
+    "unlock_with_current_key" : "You unlock it with a key you have.",
+    "item_not_found": "The item you requested is not found in the current room.",
+    "question_next_room": "Do you want to go to the next room? Ener 'yes' or 'no'"
+}
