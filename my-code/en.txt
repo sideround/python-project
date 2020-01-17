@@ -1,17 +1,23 @@
 {
     "where_are_you": "You are now in {}",
-    "introduction_game": "English intrduction!",
-    "intended_action": "Què t'agradaría fer? Escriu 'explorar' o 'examinar' ?",
-    "what_examine": "Què t'agradaria examinar?",
+    "introduction_game": "You wake up on a couch and find yourself in a strange house with no windows which you have never been to before. You don't remember why you are here and what had happened before. You feel some unknown danger is approaching and you must get out of the house, NOW!",
+    "intended_action": "What would you like to do? Type 'explore' or 'examine' ?",
+    "what_examine": "What would you like to examine?",
     "congrats_finish" : "Congrats! You escaped the room!",
     "not_sure" : "Not sure what you mean. Type 'explore' or 'examine'.",
-    "your_current_room" : "Et poses a explorar l'habitació {}. ",
-    "items_found": "Et trobes: {}",
-    "item_found": "Et trobes un/a {}.",
-    "examine_item": "Examines {}. ",
+    "your_current_room" : You explore the room. This is {}. ",
+    "items_found": "You find: {}",
+    "item_found": "You find {}.",
+    "examine_item": "You examine {}. ",
     "nothing_interesting" : "There isn't anything interesting about it.",
     "locked_without_key" : "It is locked but you don't have the key.",
     "unlock_with_current_key" : "You unlock it with a key you have.",
     "item_not_found": "The item you requested is not found in the current room.",
-    "question_next_room": "Do you want to go to the next room? Ener 'yes' or 'no'"
+    "question_next_room": "Do you want to go to the next room? Ener 'yes' or 'no'",
+    "key for door a": "key for door a", 
+    "key for door b": "key for door b", 
+    "key for door c": "key for door c", 
+    "key for door d": "key for door d"
+"keys_so_far": "So far, your game status: {}"
+
 }

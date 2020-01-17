@@ -1,17 +1,22 @@
 {
     "where_are_you": "Ara estàs a {}",
-    "introduction_game": "T'aixeques en un sofà i et trobes en una casa molt estranya, sense finestres de la qual no hi havies estat mai abans. No t'enrecordes el motiu pel qual estàs allà i què ha passat abans. Sents un perill desconegut s'està aproximant i has de marxar de la casa, INMEDIATAMENT!",
-    "intended_action": "Què t'agradaría fer? Escriu 'explorar' o 'examinar' ?",
+    "introduction_game": "T'aixeques en un sofà i et trobes en una casa molt estranya, sense finestres de la qual no hi havies estat mai abans. No recordes el motiu pel qual estàs allà i què ha passat abans. Sents que un perill desconegut s'està aproximant i has de marxar de la casa, IMMEDIATAMENT!",
+    "intended_action": "Què vols fer? Escriu 'explorar' o 'examinar' ?",
     "what_examine": "Què t'agradaria examinar?",
-    "congrats_finish" : "Felicitats! Has escapat de la casa!",
+    "congrats_finish" : "Felicitats! Has escapat de la casa! 🥳",
     "not_sure" : "No entenc el que vols dir. Escriu 'explorar' o 'examinar'.",
     "your_current_room" : "Et poses a explorar l'habitació {}. ",
     "items_found": "Et trobes: {}",
     "item_found": "Et trobes un/a {}.",
     "examine_item": "Examines {}. ",
-    "nothing_interesting" : "No hi ha res interesant aqui.",
+    "nothing_interesting" : "No hi ha res interessant aquí.",
     "locked_without_key" : "Està tancada però no tens la clau.",
     "unlock_with_current_key" : "L'has obert amb la clau que tens.",
-    "item_not_found": "L'item que has demanat no s'ha trobat en l'habitació que estàs ara.",
-    "question_next_room": "Vols anar a la seguent habitació? Escriu 'si' o 'no'"
+    "item_not_found": "L'ítem que has demanat no s'ha trobat en l'habitació que estàs ara.",
+    "question_next_room": "Vols anar a la següent habitació? Escriu 'si' o 'no'", 
+    "key for door a": "clau per utilitzarla a la 'door a'", 
+    "key for door b": "clau per utilitzarla a la 'door b'", 
+    "key for door c": "clau per utilitzarla a la 'door c'", 
+    "key for door d": "clau per utilitzarla a la 'door d'",
+"keys_so_far": "De moment en el joc, tens: {}"
 }
